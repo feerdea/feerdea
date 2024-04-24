@@ -2,4 +2,5 @@ Welcome! Enjoy my research on the U.S. investment industry and the U.S. economy.
 
 [Resume](https://www.dropbox.com/scl/fi/jszx31clmg3gqnxoivgwq/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=w92qom1b0f1pvseed2hmzmz3h&st=vis7pkr6&dl=0)
 
-[Research about U.S. Small Caps outperforming U.S. Large Caps during the Business Cycle](https://www.dropbox.com/scl/fi/j2l6jtj40j54ku7jy6i8x/When-do-U.S.-Small-Caps-outperform-U.S.-Larger-Caps.pdf?rlkey=blx15r1eopidzm8q9jasl6epe&st=okz2whze&dl=0)
+Main Research as of May 2024:
+[When do U.S. Small Caps outperform U.S. Larger Caps](https://www.dropbox.com/scl/fi/j2l6jtj40j54ku7jy6i8x/When-do-U.S.-Small-Caps-outperform-U.S.-Larger-Caps.pdf?rlkey=blx15r1eopidzm8q9jasl6epe&st=okz2whze&dl=0)
