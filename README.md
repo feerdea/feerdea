@@ -5,4 +5,4 @@ Main Research as of May 2024:
 
 [Resume](https://www.dropbox.com/scl/fi/jszx31clmg3gqnxoivgwq/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=w92qom1b0f1pvseed2hmzmz3h&st=vis7pkr6&dl=0)
 
-[LinkedIn](www.linkedin.com/in/fernandodeandresorea)
+[LinkedIn](https://www.linkedin.com/in/fernandodeandresorea)
