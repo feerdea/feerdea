@@ -3,15 +3,15 @@ Welcome! Enjoy my research on the U.S. investment industry and the U.S. economy.
 Main Research as of 2024:
 [When do U.S. Small Caps outperform U.S. Larger Caps](https://www.dropbox.com/scl/fi/j2l6jtj40j54ku7jy6i8x/When-do-U.S.-Small-Caps-outperform-U.S.-Larger-Caps.pdf?rlkey=blx15r1eopidzm8q9jasl6epe&st=okz2whze&dl=0)
 
+[LinkedIn](https://www.linkedin.com/in/fernandodeandresorea)
+
 [Resume](https://www.dropbox.com/scl/fi/jszx31clmg3gqnxoivgwq/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=w92qom1b0f1pvseed2hmzmz3h&st=vis7pkr6&dl=0)
 
-MBA, Applied Economic Forecasting and Finance - Saint Louis University / Richard A. Chaifetz School of Business
+MBA, Applied Economic Forecasting and Finance - Saint Louis University / Richard A. Chaifetz School of Business (2022-2024)
 - '23/24 Outstanding MBA Student in a Top 60 program, and a Top 100 Business School in the U.S.
 - Beta Gamma Sigma member
 - Relevant coursework: Bayesian Statistics, Econometrics I & II, and Equity, Securities and Markets
 
-Bachelor of Science, (2) Business Administration and Financial Services - Maryville University of St. Louis
+Bachelor of Science, (2) Business Administration and Financial Services - Maryville University of St. Louis (2017-2021)
 - Men’s Tennis player, and Captain
-- Relevant coursework: Securities Analysis, Macro & Microeconomics, and Emerging Tech. in Fin.                                                
-
-[LinkedIn](https://www.linkedin.com/in/fernandodeandresorea)
+- Relevant coursework: Securities Analysis, Macro & Microeconomics, and Emerging Tech. in Fin.                                          
