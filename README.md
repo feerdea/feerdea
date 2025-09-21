@@ -9,8 +9,9 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 Main Research as of 2025:
 [When do U.S. Small Caps outperform U.S. Larger Caps](https://www.dropbox.com/scl/fi/j2l6jtj40j54ku7jy6i8x/When-do-U.S.-Small-Caps-outperform-U.S.-Larger-Caps.pdf?rlkey=blx15r1eopidzm8q9jasl6epe&st=okz2whze&dl=0)
 
-Research databases:
-[U.S. economy](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h)
+Self-made databases:
+
+- [U.S. economy + S&P 500 & Russell 2000 since Octoberr 1987](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h) (monthly updates)
 
 Links:
 [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://www.dropbox.com/scl/fi/1qcdt3gtq67735akzj1kx/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=fpvb68as8nlixlbc1qexs2p2q&st=3uc1oq1x&dl=0)
@@ -37,3 +38,10 @@ LICENSES & CERTIFICATIONS:
 -	Introduction to Risk Mgmt. Professional Certificate, New York Institute of Finance (August 2022)               
 -	Financial Markets, Yale University (August 2020)                                                                                             
 -	Financial Modeling for Startups & Small Businesses, Udemy (March 2024)
+
+-----
+
+ACHIEVEMENTS:
+
+-	Preliminary Judge for Startup competition, Arch Grants (May 2025)                                                               
+-	Tariffs and Economics roundtable panelist, St. George Tucker Society (July 2025)                                                                                                       
