@@ -11,7 +11,7 @@ Research databases:
 [U.S. economy](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h)
 
 Links:
-[LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://www.dropbox.com/scl/fi/jszx31clmg3gqnxoivgwq/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=w92qom1b0f1pvseed2hmzmz3h&st=vis7pkr6&dl=0)
+[LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://www.dropbox.com/scl/fi/1qcdt3gtq67735akzj1kx/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=fpvb68as8nlixlbc1qexs2p2q&st=3uc1oq1x&dl=0)
 
 
 MBA, Applied Economic Forecasting and Finance - Saint Louis University / Richard A. Chaifetz School of Business (2022-2024)
