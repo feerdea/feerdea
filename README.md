@@ -4,6 +4,8 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 | CFA Level I Candidate
 
+-----
+
 Main Research as of 2025:
 [When do U.S. Small Caps outperform U.S. Larger Caps](https://www.dropbox.com/scl/fi/j2l6jtj40j54ku7jy6i8x/When-do-U.S.-Small-Caps-outperform-U.S.-Larger-Caps.pdf?rlkey=blx15r1eopidzm8q9jasl6epe&st=okz2whze&dl=0)
 
@@ -13,12 +15,25 @@ Research databases:
 Links:
 [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://www.dropbox.com/scl/fi/1qcdt3gtq67735akzj1kx/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=fpvb68as8nlixlbc1qexs2p2q&st=3uc1oq1x&dl=0)
 
+-----
 
-MBA, Applied Economic Forecasting and Finance - Saint Louis University / Richard A. Chaifetz School of Business (2022-2024)
+EDUCATION:
+
+MBA, Econometrics and Quantitative Economics - Saint Louis University, Richard A. Chaifetz School of Business (2022-2024) / GPA 4.0
+- Relevant coursework: Bayesian Statistics, Econometrics I & II, and Equity, Securities, and Markets
 - '23/24 Outstanding MBA Student in a Top 60 program, and a Top 100 Business School in the U.S.
 - Beta Gamma Sigma member
-- Relevant coursework: Bayesian Statistics, Econometrics I & II, and Equity, Securities and Markets
 
-Bachelor of Science, (2) Business Administration and Financial Services - Maryville University of St. Louis (2017-2021)
+Bachelor of Science, (2) Business Administration and Financial Services, Maryville University of St. Louis (2017-2021) / GPA 3.5
+- Relevant coursework: Securities Analysis, Macro & Microeconomics, and Emerging Tech. in Fin.         
 - Men’s Tennis player, and Captain
-- Relevant coursework: Securities Analysis, Macro & Microeconomics, and Emerging Tech. in Fin.                                          
+
+-----
+
+LICENSES & CERTIFICATIONS:
+
+-	Financial & Valuation Modeling, Wall Street Prep (June 2024)                                                                          
+-	Hedge Funds Professional Certificate, New York Institute of Finance (August 2022)                                       
+-	Introduction to Risk Mgmt. Professional Certificate, New York Institute of Finance (August 2022)               
+-	Financial Markets, Yale University (August 2020)                                                                                             
+-	Financial Modeling for Startups & Small Businesses, Udemy (March 2024)
