@@ -1,13 +1,14 @@
 Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. Find everything under my repository "feerdea". My own efforts, online sources, and material from my Econometrics and Quantitative Economics MBA classes at Saint Louis University support the data and code. Some documents will be visible, while others will require downloading. You can also check and interact with the coding space "let's talk US economy and investments!". Please feel free to reach out to me by email or LinkedIn if you have any questions
 
-| CFA Level I Candidate
-
 -All posts and research are my own personal opinions-
+
+| CFA Level I Candidate
 
 Main Research as of 2025:
 [When do U.S. Small Caps outperform U.S. Larger Caps](https://www.dropbox.com/scl/fi/j2l6jtj40j54ku7jy6i8x/When-do-U.S.-Small-Caps-outperform-U.S.-Larger-Caps.pdf?rlkey=blx15r1eopidzm8q9jasl6epe&st=okz2whze&dl=0)
 
-[
+Research databases:
+[U.S. economy](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h)
 
 Links:
 [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://www.dropbox.com/scl/fi/jszx31clmg3gqnxoivgwq/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=w92qom1b0f1pvseed2hmzmz3h&st=vis7pkr6&dl=0)
