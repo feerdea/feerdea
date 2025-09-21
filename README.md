@@ -1,4 +1,4 @@
-Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. Find everything under my repository "feerdea". My own efforts, online sources, and material from my Econometrics and Quantitative Economics MBA classes at Saint Louis University support the data and code. Some documents will be visible, while others will require downloading. You can also check and interact with the coding space "let's talk US economy and investments!". Please feel free to reach out to me by email or LinkedIn if you have any questions
+Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. Find everything under my repository "feerdea". My own efforts, online sources, and material from my Econometrics and Quantitative Economics MBA classes at Saint Louis University support the data and code. Some documents will be visible, while others will require downloading. You can also check and interact with the coding space "let's talk US economy and investments!". Please feel free to reach out to me by email or LinkedIn if you have any questions.
 
 -All posts and research are my own personal opinions-
 
