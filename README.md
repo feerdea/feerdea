@@ -16,6 +16,14 @@ Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](h
 
 -----
 
+Opinion - 'Nowadays': a few pages I write now and then on economics and investments. I started this back in 2023 during my MBA, with the sole purpose of putting some thoughts out there—no recommendations at all. Sometimes the content is visual, sometimes technical...more like a blog I update every few months.
+
+- [NOWADAYS-1](https://1drv.ms/p/c/37107d93d172baba/EaZwqhrEavFNoJrZkMKpjBkBRFtB5DVXbYRTtdkJ5vB3og?e=vFXQIo) /// June 2023
+- [NOWADAYS-2](https://1drv.ms/p/c/37107d93d172baba/EWmNLcNWPGpGvTaNDWW7qFMB5YQeDxAe2c3hu4QgxezvMA?e=6G8g30) /// November 2023
+- [NOWADAYS-3](https://1drv.ms/w/c/37107d93d172baba/Ebg-iu-FhuNEmDxFxvTVMF0BEfVMcDVmOHKu6z3ZAR25Cg?e=NSo2Ab) /// March 2025
+
+-----
+
 EDUCATION:
 
 MBA, Econometrics and Quantitative Economics - Saint Louis University, Richard A. Chaifetz School of Business (2022-2024) / GPA 4.0
