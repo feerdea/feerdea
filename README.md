@@ -6,7 +6,7 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 -----
 
-Main Research as of 2025: [When do U.S. Small Caps outperform U.S. Larger Caps]([https://www.dropbox.com/scl/fi/j2l6jtj40j54ku7jy6i8x/When-do-U.S.-Small-Caps-outperform-U.S.-Larger-Caps.pdf?rlkey=blx15r1eopidzm8q9jasl6epe&st=okz2whze&dl=0](https://1drv.ms/b/c/37107d93d172baba/IQC6unLRk30QIIA33hUAAAAAAdbP4rbU2uZkyC45TcydlwU?e=tZ3NpJ)
+Main Research as of 2025: [When do U.S. Small Caps outperform U.S. Larger Caps](https://1drv.ms/b/c/37107d93d172baba/IQC6unLRk30QIIA33hUAAAAAAdbP4rbU2uZkyC45TcydlwU?e=tZ3NpJ)
 
 Self-made databases:
 
