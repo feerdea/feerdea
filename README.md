@@ -14,6 +14,10 @@ Self-made databases:
 
 - [U.S. equities + certain worldwide ETFs](https://1drv.ms/x/c/37107d93d172baba/IQAii3us7IOSQLaUGak8ZBXmAXciAitBLqkC22SUZMQmiR8?e=L6CYR9) (quarterly updates)
 
+- [Commodities - critical](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsAfK4rZznNzk5N9l09l0MxE8?e=NMNa26) /// (quarterly updates)
+  
+- [AI play as of 10.5.2025](https://1drv.ms/x/c/37107d93d172baba/IQCI-VCc9qr6SpTY1B1GxBXgAVKYNhvbq6n5321Mmb8XcAk?e=y9ovD4) /// ongoing
+
 Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48)
 
 -----
