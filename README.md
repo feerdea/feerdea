@@ -6,7 +6,7 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 -----
 
-Main Research as of 2025: [When do U.S. Small Caps outperform U.S. Larger Caps](https://1drv.ms/b/c/37107d93d172baba/IQC6unLRk30QIIA33hUAAAAAAdbP4rbU2uZkyC45TcydlwU?e=FdQmc4)
+Main Research as of 2026: [When do U.S. Small Caps outperform U.S. Larger Caps](https://1drv.ms/b/c/37107d93d172baba/IQC6unLRk30QIIA33hUAAAAAAdbP4rbU2uZkyC45TcydlwU?e=FdQmc4)
 
 Self-made databases:
 
@@ -20,9 +20,9 @@ Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](h
 
 Opinion - 'Nowadays': a few pages I write now and then on economics and investments. I started this back in 2023 during my MBA, with the sole purpose of putting some thoughts out there—no recommendations at all. Sometimes the content is visual, sometimes technical...more like a blog I update every few months.
 
-- [NOWADAYS-1](https://1drv.ms/p/c/37107d93d172baba/EaZwqhrEavFNoJrZkMKpjBkBRFtB5DVXbYRTtdkJ5vB3og?e=vFXQIo) /// June 2023
-- [NOWADAYS-2](https://1drv.ms/p/c/37107d93d172baba/EWmNLcNWPGpGvTaNDWW7qFMB5YQeDxAe2c3hu4QgxezvMA?e=6G8g30) /// November 2023
-- [NOWADAYS-3](https://1drv.ms/w/c/37107d93d172baba/Ebg-iu-FhuNEmDxFxvTVMF0BEfVMcDVmOHKu6z3ZAR25Cg?e=NSo2Ab) /// March 2025
+- [NOWADAYS-1](https://1drv.ms/p/c/37107d93d172baba/IQB1C-v77lC1SqiPmFzGUtWyAc4UXAiCHqBc6iqd-idj2kQ?e=p9ttsf) /// June 2023
+- [NOWADAYS-2](https://1drv.ms/p/c/37107d93d172baba/IQAiiEyTrI47S5ZDkcdc9QPuAY6EICzLg7fdDziQc_L7pDY?e=0g2AWZ) /// November 2023
+- [NOWADAYS-3](https://1drv.ms/w/c/37107d93d172baba/IQDF4Ufu7tILTYcqrs-G8S5DAdfMc36J_zl6Uqlztwp4PLg?e=0S3rp9) /// March 2025
 
 -----
 
