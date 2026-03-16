@@ -14,7 +14,7 @@ Self-made databases:
 
 - [U.S. equities + certain worldwide ETFs](https://1drv.ms/x/c/37107d93d172baba/IQAii3us7IOSQLaUGak8ZBXmAXciAitBLqkC22SUZMQmiR8?e=L6CYR9) (quarterly updates)
 
-Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume]([https://www.dropbox.com/scl/fi/1qcdt3gtq67735akzj1kx/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=fpvb68as8nlixlbc1qexs2p2q&st=3uc1oq1x&dl=0](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48))
+Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48)
 
 -----
 
