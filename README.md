@@ -12,6 +12,8 @@ Self-made databases:
 
 - [U.S. macroeconomics spectrum + S&P 500 & Russell 2000 since October 1987](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h) (monthly updates)
 
+- [U.S. equities](https://1drv.ms/x/c/37107d93d172baba/IQAii3us7IOSQLaUGak8ZBXmAXciAitBLqkC22SUZMQmiR8?e=L6CYR9) (quarterly updates)
+
 Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://www.dropbox.com/scl/fi/1qcdt3gtq67735akzj1kx/Fernando-de-Andres-Orea-English-CV.pdf?rlkey=fpvb68as8nlixlbc1qexs2p2q&st=3uc1oq1x&dl=0)
 
 -----
