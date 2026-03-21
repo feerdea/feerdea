@@ -2,7 +2,7 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 -All posts and research are my own personal opinions-
 
-| Passed CFA Level I
+| Passed CFA Program Level I
 
 -----
 
