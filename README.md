@@ -45,6 +45,7 @@ Bachelor of Science, (2) Business Administration and Financial Services, Maryvil
 
 LICENSES & CERTIFICATIONS:
 
+- Passed CFA Program Level I (February 2026)
 -	Financial & Valuation Modeling, Wall Street Prep (June 2024)                                                                          
 -	Hedge Funds Professional Certificate, New York Institute of Finance (August 2022)                                       
 -	Introduction to Risk Mgmt. Professional Certificate, New York Institute of Finance (August 2022)               
