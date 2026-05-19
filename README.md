@@ -56,5 +56,5 @@ LICENSES & CERTIFICATIONS:
 
 ACHIEVEMENTS:
 
--	Preliminary Judge for Startup competition, Arch Grants (May 2025)                                                               
+-	Preliminary Judge for Startup competition, Arch Grants (May 2025, May 2026)                                                               
 -	Tariffs and Economics roundtable panelist, St. George Tucker Society (July 2025)                                                                                                       
