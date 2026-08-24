@@ -49,7 +49,8 @@ LICENSES & CERTIFICATIONS:
 -	Financial & Valuation Modeling, Wall Street Prep (June 2024)                                                                          
 -	Hedge Funds Professional Certificate, New York Institute of Finance (August 2022)                                       
 -	Introduction to Risk Mgmt. Professional Certificate, New York Institute of Finance (August 2022)               
--	Financial Markets, Yale University (August 2020)                                                                                             
+-	Financial Markets, Yale University (August 2020)
+-	Investing in Bonds, Udemy (July 2026)                                                                                    
 -	Financial Modeling for Startups & Small Businesses, Udemy (March 2024)
 
 -----
