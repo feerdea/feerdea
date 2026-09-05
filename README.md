@@ -8,15 +8,15 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 Main Research as of 2026: [When do U.S. Small Caps outperform U.S. Larger Caps](https://1drv.ms/b/c/37107d93d172baba/IQC6unLRk30QIIA33hUAAAAAAdbP4rbU2uZkyC45TcydlwU?e=FdQmc4)
 
-Self-made databases:
+Databases:
 
-- [U.S. macroeconomics spectrum + S&P 500 & Russell 2000 since October 1987](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h) (monthly updates)
+- [U.S. economy snapshot as of 9.1.2026](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h) (quarterly updates)
 
-- [U.S. equities + certain worldwide ETFs](https://1drv.ms/x/c/37107d93d172baba/IQAii3us7IOSQLaUGak8ZBXmAXciAitBLqkC22SUZMQmiR8?e=L6CYR9) (quarterly updates)
+- [Financial markets snapshot, August 2026](https://1drv.ms/x/c/37107d93d172baba/IQAii3us7IOSQLaUGak8ZBXmAXciAitBLqkC22SUZMQmiR8?e=L6CYR9) (monthly updates)
 
-- [Commodities - critical](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsAfK4rZznNzk5N9l09l0MxE8?e=NMNa26) (quarterly updates)
+- [Critical commodities as of 9.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsAfK4rZznNzk5N9l09l0MxE8?e=NMNa26) (quarterly updates)
   
-- [AI play as of 10.5.2025](https://1drv.ms/x/c/37107d93d172baba/IQCI-VCc9qr6SpTY1B1GxBXgAVKYNhvbq6n5321Mmb8XcAk?e=y9ovD4) /// ongoing
+- [AI play as of 3.18.2026](https://1drv.ms/x/c/37107d93d172baba/IQCI-VCc9qr6SpTY1B1GxBXgAVKYNhvbq6n5321Mmb8XcAk?e=y9ovD4) /// ongoing
 
 Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48)
 
