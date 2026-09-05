@@ -14,11 +14,11 @@ Main Research as of 2026: [When do U.S. Small Caps outperform U.S. Larger Caps](
 
 Monthly opinion on financial markets:
 
-- [August 2026](https://1drv.ms/x/c/37107d93d172baba/IQAii3us7IOSQLaUGak8ZBXmAXciAitBLqkC22SUZMQmiR8?e=L6CYR9)
+- [August 2026]([https://1drv.ms/x/c/37107d93d172baba/IQAii3us7IOSQLaUGak8ZBXmAXciAitBLqkC22SUZMQmiR8?e=L6CYR9](https://1drv.ms/b/c/37107d93d172baba/IQAdeUylUpksT5cp-BQ4ig37Ab6ExzJzSk7hXjerHhgP-V4?e=v7sDCe)
 
 Databases:
 
-- [U.S. economy snapshot as of 9.1.2026](https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h) (quarterly updates)
+- [U.S. economy snapshot as of 9.1.2026]([https://1drv.ms/x/c/37107d93d172baba/Eapekdf7QDNPgak0j-vvufEB5vuqC8oS8xHQv1lyfSIHww?e=hixW0h](https://1drv.ms/x/c/37107d93d172baba/IQDbkKl0JuaDQJbkL7tFjVCdAWn7IDLiP2CZtQSli6HGrJw?e=BeI9Ha) (quarterly updates)
 
 - [Critical commodities as of 9.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsAfK4rZznNzk5N9l09l0MxE8?e=NMNa26) (quarterly updates)
 
