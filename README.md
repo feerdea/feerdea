@@ -10,7 +10,7 @@ Main Research as of 2026: [When do U.S. Small Caps outperform U.S. Larger Caps](
 
 | More research:
 
-- [AI play as of 3.18.2026](https://1drv.ms/x/c/37107d93d172baba/IQCI-VCc9qr6SpTY1B1GxBXgAVKYNhvbq6n5321Mmb8XcAk?e=y9ovD4)
+- [AI play as of 9.12.2026](https://1drv.ms/x/c/37107d93d172baba/IQCI-VCc9qr6SpTY1B1GxBXgAVKYNhvbq6n5321Mmb8XcAk?e=y9ovD4)
 
 Monthly opinion on financial markets:
 
