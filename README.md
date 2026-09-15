@@ -31,6 +31,7 @@ Opinion - 'Nowadays': a few pages I write now and then on economics and investme
 - [NOWADAYS-1](https://1drv.ms/p/c/37107d93d172baba/IQB1C-v77lC1SqiPmFzGUtWyAc4UXAiCHqBc6iqd-idj2kQ?e=p9ttsf) /// June 2023
 - [NOWADAYS-2](https://1drv.ms/p/c/37107d93d172baba/IQAiiEyTrI47S5ZDkcdc9QPuAY6EICzLg7fdDziQc_L7pDY?e=0g2AWZ) /// November 2023
 - [NOWADAYS-3](https://1drv.ms/w/c/37107d93d172baba/IQDF4Ufu7tILTYcqrs-G8S5DAdfMc36J_zl6Uqlztwp4PLg?e=0S3rp9) /// March 2025
+- [NOWADAYS-4](https://1drv.ms/w/c/37107d93d172baba/IQDF4Ufu7tILTYcqrs-G8S5DAdfMc36J_zl6Uqlztwp4PLg?e=0S3rp9) /// September 2025
 
 -----
 
