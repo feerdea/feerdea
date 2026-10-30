@@ -14,7 +14,9 @@ Main Research as of 2026: [When do U.S. Small Caps outperform U.S. Larger Caps](
 
 Monthly opinion on financial markets:
 
-- [August 2026](https://1drv.ms/b/c/37107d93d172baba/IQAdeUylUpksT5cp-BQ4ig37Ab6ExzJzSk7hXjerHhgP-V4?e=v7sDCe)
+- [August 2026](https://1drv.ms/x/c/37107d93d172baba/IQBJfMdKxxbXSo3WTed5touBAb3ipK8qp00ZQNZJleNCcAE?e=WP8E6D)
+- [September 2026](https://1drv.ms/x/c/37107d93d172baba/IQDGYwFw40FERJ5nDmijUtnwAYCUk2M-1S0l1YwCzeWogDA?e=K0gEhO)
+- [October 2026](https://1drv.ms/x/c/37107d93d172baba/IQAO-NtYk53JTK_IzCJcaIwnATE3qXvGQyvWqCPtaORRaeY?e=ZRTUDy)
 
 Databases:
 
