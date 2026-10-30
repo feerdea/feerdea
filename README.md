@@ -20,6 +20,8 @@ Databases:
 
 - [U.S. economy snapshot as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQDbkKl0JuaDQJbkL7tFjVCdAWn7IDLiP2CZtQSli6HGrJw?e=ZbGjsy) (quarterly updates)
 
+- [Worldwide economy snapshot as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBY5cHldmf6SKX08qTH3ijnAV698FWy0L8HLWKGN1wPuG8?e=E4YyzS) (quarterly updates)
+
 - [Critical commodities as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsAfK4rZznNzk5N9l09l0MxE8?e=G9RUPe) (quarterly updates)
 
 Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48)
