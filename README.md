@@ -6,6 +6,10 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 -----
 
+Track my StockTrak portfolio! Active since 2024. Last performance update: 11.7.2026; [https://1drv.ms/x/c/37107d93d172baba/IQCu-tylGAv4S4qoIObJtTClAVl32-cKhiErycsigy5WbOI?e=4GeYbu]
+
+-----
+
 Main Research as of 2026: [When do U.S. Small Caps outperform U.S. Larger Caps](https://1drv.ms/b/c/37107d93d172baba/IQC6unLRk30QIIA33hUAAAAAAdbP4rbU2uZkyC45TcydlwU?e=hglJZH)
 
 | More research:
