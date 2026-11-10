@@ -6,7 +6,7 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 -----
 
-Track my StockTrak portfolio! Active since 2024. Last performance update: 11.7.2026; [https://1drv.ms/x/c/37107d93d172baba/IQCu-tylGAv4S4qoIObJtTClAVl32-cKhiErycsigy5WbOI?e=4GeYbu]
+Track my StockTrak portfolio! Active since 2024. Last performance update: 11.7.2026; [Feerdea StockTrak portfolio] (https://1drv.ms/x/c/37107d93d172baba/IQCu-tylGAv4S4qoIObJtTClAVl32-cKhiErycsigy5WbOI?e=4GeYbu)
 
 -----
 
