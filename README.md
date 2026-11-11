@@ -2,6 +2,8 @@ Welcome! Enjoy my research on the U.S. financial markets and the U.S. economy. F
 
 -All posts and research are my own personal opinions-
 
+Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48)
+
 | Passed CFA Program Level I
 
 -----
@@ -29,8 +31,6 @@ Databases:
 - [Worldwide economy snapshot as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBY5cHldmf6SKX08qTH3ijnATqTEfDszjKH5wnx1ycklqI?e=l7a1NF) (quarterly updates)
 
 - [Critical commodities as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsASOrN4ufGTaOR-KEQZDiNk4?e=lIwNyf) (quarterly updates)
-
-Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48)
 
 -----
 
