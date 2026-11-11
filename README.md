@@ -14,7 +14,7 @@ Main Research as of 2026: [When do U.S. Small Caps outperform U.S. Larger Caps](
 
 | More research:
 
-- [AI play as of 10.29.2026](https://1drv.ms/x/c/37107d93d172baba/IQCI-VCc9qr6SpTY1B1GxBXgAVKYNhvbq6n5321Mmb8XcAk?e=y9ovD4)
+- [AI play as of 10.29.2026](https://1drv.ms/x/c/37107d93d172baba/IQCI-VCc9qr6SpTY1B1GxBXgAZp26l4nw_Px-gFZ8k7KlaM?e=LWUnWk)
 
 Monthly opinion on financial markets:
 
@@ -24,11 +24,11 @@ Monthly opinion on financial markets:
 
 Databases:
 
-- [U.S. economy snapshot as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQDbkKl0JuaDQJbkL7tFjVCdAWn7IDLiP2CZtQSli6HGrJw?e=ZbGjsy) (quarterly updates)
+- [U.S. economy snapshot as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQDbkKl0JuaDQJbkL7tFjVCdASURwmLYxugaucFLgL0C6Bk?e=FwOXZB) (quarterly updates)
 
-- [Worldwide economy snapshot as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBY5cHldmf6SKX08qTH3ijnAV698FWy0L8HLWKGN1wPuG8?e=E4YyzS) (quarterly updates)
+- [Worldwide economy snapshot as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBY5cHldmf6SKX08qTH3ijnATqTEfDszjKH5wnx1ycklqI?e=l7a1NF) (quarterly updates)
 
-- [Critical commodities as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsAfK4rZznNzk5N9l09l0MxE8?e=G9RUPe) (quarterly updates)
+- [Critical commodities as of 11.1.2026](https://1drv.ms/x/c/37107d93d172baba/IQBa_49SDpL2SpoJh7T7cTrsASOrN4ufGTaOR-KEQZDiNk4?e=lIwNyf) (quarterly updates)
 
 Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](https://1drv.ms/b/c/37107d93d172baba/IQBu8OaMoQ3ISbQYGfI6lvPUAd-96bfflIgGX21PA3_bEdo?e=fsRn48)
 
@@ -36,9 +36,9 @@ Links: [LinkedIn](https://www.linkedin.com/in/fernandodeandresorea) | [Resume](h
 
 Opinion - 'Nowadays': a few pages I write now and then on economics and investments. I started this back in 2023 during my MBA, with the sole purpose of putting some thoughts out there—no recommendations at all. Sometimes the content is visual, sometimes technical...more like a blog I update every few months.
 
-- [NOWADAYS-1](https://1drv.ms/p/c/37107d93d172baba/IQB1C-v77lC1SqiPmFzGUtWyAc4UXAiCHqBc6iqd-idj2kQ?e=p9ttsf) /// June 2023
-- [NOWADAYS-2](https://1drv.ms/p/c/37107d93d172baba/IQAiiEyTrI47S5ZDkcdc9QPuAY6EICzLg7fdDziQc_L7pDY?e=0g2AWZ) /// November 2023
-- [NOWADAYS-3](https://1drv.ms/w/c/37107d93d172baba/IQDF4Ufu7tILTYcqrs-G8S5DAdfMc36J_zl6Uqlztwp4PLg?e=0S3rp9) /// March 2025
+- [NOWADAYS-1](https://1drv.ms/p/c/37107d93d172baba/IQB1C-v77lC1SqiPmFzGUtWyAWRhoDMf6ssdq0omRTbjbCA?e=BkayLY) /// June 2023
+- [NOWADAYS-2](https://1drv.ms/p/c/37107d93d172baba/IQAiiEyTrI47S5ZDkcdc9QPuAfrE5za1q_guxkBwhzInsCw?e=NIa6GU) /// November 2023
+- [NOWADAYS-3](https://1drv.ms/w/c/37107d93d172baba/IQDF4Ufu7tILTYcqrs-G8S5DAZdBmVH51RaL8gxqK4g_FwY?e=m92ghf) /// March 2025
 - [NOWADAYS-4](https://1drv.ms/w/c/37107d93d172baba/IQDgBa-v5-zoQbjy94wE17AUAfzbTad5J2wuaSHu6sGp4aU?e=xFU9RO) /// September 2025
 
 -----
